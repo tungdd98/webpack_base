@@ -1,11 +1,11 @@
-```
-## Build
-```
-
-npm run dev
-npm run build: build production
-npm run start: start port 8080
+## Run app
 
 ```
+npm run start
+```
 
+## Build app
+
+```
+npm run build
 ```
